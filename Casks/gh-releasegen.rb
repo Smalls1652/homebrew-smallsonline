@@ -17,4 +17,5 @@ cask "gh-releasegen" do
   depends_on macos: ">= :sonoma"
 
   binary "gh-releasegen"
+
 end
